@@ -1,1 +1,1 @@
-# Hyperspectral-Image-Processign
+# Hyperspectral-Image-Processing
